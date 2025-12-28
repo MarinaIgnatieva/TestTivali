@@ -44,26 +44,26 @@ allure-python-commons
 Проверка успешного создания поста с валидными данными
 Проверка создания поста с невалидными данными:
 
-    - пустой Json
-    - отсутствующая строка title,body,userId
-    - числовой формат title, body
-    - строковый формат userId
-    - булевы значения в title, body, userId
-    - значения null в title, body, userId
-    - несуществующий userId
+- пустой Json
+- отсутствующая строка title,body,userId
+- числовой формат title, body
+- строковый формат userId
+- булевы значения в title, body, userId
+- значения null в title, body, userId
+- несуществующий userId
 
 
 #### Проверка обновления поста
 Проверка успешного обновления поста с валидными данными
 Проверка обновления поста с невалидными данными:
 
-    - пустой Json
-    - отсутствующая строка id, title,body,userId
-    - числовой формат title, body
-    - строковый формат id, userId
-    - булевы значения в id, title, body, userId
-    - значения null в id, title, body, userId
-    - несуществующий id, userId
+- пустой Json
+- отсутствующая строка id, title,body,userId
+- числовой формат title, body
+- строковый формат id, userId
+- булевы значения в id, title, body, userId
+- значения null в id, title, body, userId
+- несуществующий id, userId
 
 
 #### Успешное удаление поста
